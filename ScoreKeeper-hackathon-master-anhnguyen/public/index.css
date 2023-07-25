@@ -1,0 +1,17 @@
+#addRoundBtn {
+    background: pink;
+    border: none;
+    align-items: center;
+}
+
+.gamename {
+    border-bottom: 1px solid rgb(213, 202, 202);
+}
+
+body {
+    background-color: #FBFEF9;
+}
+
+.playername {
+    border: 1px solid pink;
+}

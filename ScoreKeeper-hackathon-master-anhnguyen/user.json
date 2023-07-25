@@ -1,0 +1,27 @@
+[
+    {
+        "id": 0,
+        "username": "Nguyễn Mạnh Khoa",
+        "password": "123123"
+    },
+    {
+        "id": 1,
+        "username": "Nguyễn Tuấn Thành",
+        "password": "123123"
+    },
+    {
+        "id": 2,
+        "username": "Nguyễn Văn Toàn",
+        "password": "123123"
+    },
+    {
+        "id": 3,
+        "username": "nguthe",
+        "password": "123456"
+    },
+    {
+        "id": 4,
+        "username": "nguthat",
+        "password": "123123"
+    }
+]
